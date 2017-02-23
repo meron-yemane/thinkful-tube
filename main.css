@@ -1,0 +1,16 @@
+a {
+  display: block;
+  width: 120px;
+  border-display: border-box;
+  margin-bottom: 20px;
+}
+
+form {
+  margin-bottom: 25px;
+}
+
+body {
+  padding-left: 30px;
+}
+
+
